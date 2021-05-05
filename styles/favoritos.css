@@ -1,0 +1,19 @@
+body {
+  width: 75%;
+  margin: 0 auto;
+  background-color: #fec7d7;
+}
+
+main {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+main h2 {
+  flex: 0 0 100%;
+}
+
+main img {
+  max-width: 40%;
+  margin: 3%;
+}
